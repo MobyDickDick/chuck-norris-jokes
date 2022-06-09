@@ -1,5 +1,7 @@
 package main
 
+// Ich probiere, das Ganze auszuliefern.
+
 import (
 	"fmt"
 	"github.com/bndr/gopencils"
